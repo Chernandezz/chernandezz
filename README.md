@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack developer | Specialized in Backend<br><br>🔭 Currently working as a backend developer<br>🤝  Great experience as a particular programming teacher<br>with more than 1000 hours of monitoring in languages<br>such as PHP, C, Python, JAVA, JavaScript, Git, among other<br>technologies.<br>🌱  Eager to expand my knowledge and improve my skills<br>as a developer.<br>💬 IT Administrator<br>⚡ More than 3 years of experience as a developer.
+Fullstack developer | Specialized in Backend<br><br>🔭 Currently working as a backend developer<br>🤝  Great experience as a particular programming teacher with more than 1000 hours of monitoring in languages such as PHP, C, Python, JAVA, JavaScript, Git, among other technologies.<br>🌱  Eager to expand my knowledge and improve my skills as a developer.<br>💬 IT Administrator<br>⚡ More than 3 years of experience as a developer.
 
 
 ## 🌐 Socials:
