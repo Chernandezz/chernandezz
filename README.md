@@ -1,21 +1,21 @@
 # 👋 Hi there!
 
-## 👨‍💻 Cristian Hernández | Full-Stack Developer & Backend Specialist
+## 👨‍💻 Cristian Hernández | Full-Stack Developer
 
 ---
 
 ### 💫 About Me
 
-I’m a passionate developer with over **3 years** of experience, specializing in backend architecture and scalable systems. I’ve dedicated over **1000 hours** mentoring in PHP, C, Python, Java, JavaScript, and Git. AWS Certified and IT Administrator with a strong focus on security, performance, and clean code. Always seeking new challenges and continuous learning.
+I’m a Full-Stack Developer specializing in both front-end and back-end technologies. As the Creator and Lead Developer of [Activlingo](https://activlingo.com), an AI-driven platform for immersive English practice, I design and implement end-to-end solutions with a strong focus on security, scalability, and performance. AWS Certified and seasoned IT Administrator with extensive mentoring experience, I deliver clean, maintainable code and drive innovation in web development.
 
 ---
 
 ### 🔭 Current Focus
 
-- **Backend Development:** Laravel, Node.js, FastAPI  
+- **Full Stack Development:** Angular, React, Node.js, FastAPI  
+- **Backend Architecture:** RESTful APIs, Microservices, Relational & NoSQL Databases  
 - **Cloud & DevOps:** AWS (Lambda, EC2, S3), Docker, Kubernetes  
-- **Mentoring & Training:** Best practices and programming guidance for junior developers  
-- **Open Source:** Active contributions and community collaborations
+- **Mentoring & Training:** Guiding junior developers and conducting code reviews  
 
 ---
 
@@ -44,10 +44,9 @@ I’m a passionate developer with over **3 years** of experience, specializing i
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Project
 
-- [Activlingo](https://github.com/chernandezz/activlingo): English practice platform with automated linguistic analysis.  
-- [MPathAssessment](https://github.com/chernandezz/mPATHAssessment): Web application for patient management and preventive care recommendations.
+- **[Activlingo](https://activlingo.com):** AI-powered English practice platform delivering real-time linguistic analysis and personalized feedback.
 
 ---
 
